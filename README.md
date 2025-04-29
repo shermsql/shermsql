@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @shermsql
+- 👋 Hi, I’m [@shermsql](https://github.com/shermsql)
 - 💻 Full Stack Developer
 - ☕ Coffee Enthusiast
-- 📫 Kurkut.Batuhan@outlook.com
+- 📫 [Kurkut.Batuhan@outlook.com](mailto:Kurkut.Batuhan@outlook.com)
 
 <!---
 shermsql/shermsql is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
