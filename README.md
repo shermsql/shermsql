@@ -63,9 +63,10 @@ I'm interested in software architecture, security, systems programming, and prod
 
 ---
 
-#### 🌐 Connect
+#### 🤝 Connect
 
-* 🌍 **Skelvric:** [www.skelvric.com](https://www.skelvric.com)
+* 🌍 **Portfolio:** [me.skelvric.com](https://me.skelvric.com)
+* 🏢 **Skelvric:** [www.skelvric.com](https://www.skelvric.com)
 * 💼 **LinkedIn:** [in/shermsql](https://linkedin.com/in/shermsql)
 * 📸 **Instagram:** [instagram.com/shermsql](https://instagram.com/shermsql)
 
