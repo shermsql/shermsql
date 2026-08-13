@@ -12,8 +12,8 @@ I build software across the stack — from desktop applications and backend syst
 
 Currently working on:
 
-* 🔐 **SkelVault** — a modern password manager
-* 🖥️ **SkelVault Desktop** — desktop application for the SkelVault ecosystem
+* 🔐 **SkelPass** — a modern password manager
+* 🖥️ **SkelPass Desktop** — desktop application for the SkelVault ecosystem
 * ⚙️ Software, infrastructure, and tools behind the Skelvric ecosystem
 
 ---
@@ -45,11 +45,11 @@ Currently working on:
 
 #### 📌 Featured Projects
 
-##### 🔐 [SkelVault](https://github.com/Skelvric/SkelVault)
+##### 🔐 [SkelPass](https://github.com/Skelvric/SkelPass)
 
 A modern password manager focused on secure credential management and a clean user experience.
 
-##### 🖥️ [SkelVault Desktop](https://github.com/Skelvric/SkelVault-Desktop)
+##### 🖥️ [SkelPass Desktop](https://github.com/Skelvric/SkelPass-Desktop)
 
 The desktop client for the SkelVault ecosystem.
 
