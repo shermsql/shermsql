@@ -13,7 +13,7 @@ I build software across the stack — from desktop applications and backend syst
 Currently working on:
 
 * 🔐 **SkelPass** — a modern password manager
-* 🖥️ **SkelPass Desktop** — desktop application for the SkelVault ecosystem
+* 🖥️ **SkelPass Desktop** — desktop application for the SkelPass ecosystem
 * ⚙️ Software, infrastructure, and tools behind the Skelvric ecosystem
 
 ---
@@ -65,8 +65,8 @@ I'm interested in software architecture, security, systems programming, and prod
 
 #### 🤝 Connect
 
-* 🌍 **Portfolio:** [me.skelvric.com](https://me.skelvric.com)
 * 🏢 **Skelvric:** [www.skelvric.com](https://www.skelvric.com)
+* 🌍 **Portfolio:** [me.skelvric.com](https://me.skelvric.com)
 * 💼 **LinkedIn:** [in/shermsql](https://linkedin.com/in/shermsql)
 * 📸 **Instagram:** [instagram.com/shermsql](https://instagram.com/shermsql)
 
