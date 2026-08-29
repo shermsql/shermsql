@@ -45,13 +45,17 @@ Currently working on:
 
 #### 📌 Featured Projects
 
+<p align="left">
+  <img src="./Preview.png" alt="SkelPass Preview" width="600">
+</p>
+
 ##### 🔐 [SkelPass](https://github.com/Skelvric/SkelPass)
 
 A modern password manager focused on secure credential management and a clean user experience.
 
 ##### 🖥️ [SkelPass Desktop](https://github.com/Skelvric/SkelPass-Desktop)
 
-The desktop client for the SkelVault ecosystem.
+The desktop client for the SkelPass ecosystem.
 
 ---
 
