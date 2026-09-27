@@ -1,6 +1,6 @@
 ### Hey, I'm Batuhan 👋
 
-**Software Engineer · Founder at [Skelvric](https://github.com/Skelvric)**
+**Full Stack Developer · Founder at [Skelvric](https://github.com/Skelvric)**
 
 I build software across the stack — from desktop applications and backend systems to web platforms and databases, with a focus on understanding the product, architecture, and technology behind it rather than limiting myself to a single layer of the stack.
 
@@ -14,6 +14,7 @@ Currently working on:
 
 * 🔐 **SkelPass** — a modern password manager
 * 🖥️ **SkelPass Desktop** — desktop application for the SkelPass ecosystem
+* 👀 **Codeum** — a coding challenge platform for improving real-world developer skills
 * ⚙️ Software, infrastructure, and tools behind the Skelvric ecosystem
 
 ---
@@ -56,6 +57,10 @@ A modern password manager focused on secure credential management and a clean us
 ##### 🖥️ [SkelPass Desktop](https://github.com/Skelvric/SkelPass-Desktop)
 
 The desktop client for the SkelPass ecosystem.
+
+##### 👀 [Codeum](https://github.com/Skelvric/Codeum)
+
+A practical coding challenge platform for developers, focused on real-world skills and problem-solving.
 
 ---
 
